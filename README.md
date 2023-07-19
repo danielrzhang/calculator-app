@@ -20,7 +20,7 @@ This Windows calculator app is a simple calculator application developed using V
     * Click on "Open a project or solution" from the startup window, or go to the "File" menu and select "Open" > "Project/Solution".
     * Browse to the location where you cloned/downloaded the repository and select the solution file (Calculator.sln).
     * Click "Open" to load the project.
-  
+
 3. Build the project.
     * Once the project is loaded in Visual Studio, go to the "Build" menu and select "Build Solution" or simply press Ctrl+Shift+B.
     * The calculator app will launch.
