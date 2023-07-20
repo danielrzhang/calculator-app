@@ -1,5 +1,5 @@
 # calculator-app
-This Windows calculator app is a simple calculator application developed using Visual Studio C++ for the Windows operating system. It provides basic mathematical operations and a minimalistic user interface for performing calculations.
+This is a lightweight calculator application developed using Visual Studio C++ for the Windows operating system. It provides basic mathematical operations and a minimalistic user interface for performing calculations.
 
 ![](/images/display.png)
 
